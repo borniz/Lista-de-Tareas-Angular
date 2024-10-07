@@ -1,0 +1,37 @@
+:host{
+    background-color: aqua;
+}
+.taskContainer{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+ul{
+    margin-left: 0;
+    padding: 0;
+}
+.newTaskContainer{
+    justify-self: center;
+    padding-left: 3em;
+}
+.listContainer{
+    height: 1vh;
+}
+.btnDeletetTask{
+    margin-left: 2em;
+    height: 2%;
+    
+}
+h1{
+    font-size: 3em;
+}
+
+.bodyContainer{
+    display: grid;
+    justify-content: center;
+    height: 100vh;
+    background-color: blanchedalmond;
+    
+}
